@@ -1,3 +1,5 @@
+![John Ryan, VP Engineering, Data & Match Intelligence at GLG](assets/banner.png)
+
 # John Ryan
 
 VP Engineering, Data & Match Intelligence at GLG, Dublin.
