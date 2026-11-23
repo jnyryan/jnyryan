@@ -6,6 +6,10 @@ I lead engineering teams across the US and India building AI, search and data sy
 
 I'm open to speaking and advisory work.
 
+## Current focus
+
+**[Oversay](https://oversay.app)** helps you give a talk or run a meeting on time: plan it as a deck of timed cards, then present with small always-on-top overlays that show where you are and what comes next.
+
 ## Find me
 
 - [johnryan.io](https://www.johnryan.io/)
